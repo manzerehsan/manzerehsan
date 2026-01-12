@@ -32,7 +32,7 @@
 - 🌐 Product Reviews: https://forgequill.com
 - 🛠 Tools: https://convertiohub.com
 - 📺 YouTube: RiseDaily, DailyFunLab, EchoesOfWars
-- 💼 Fiverr: (add your gig link)
+- 💼 Fiverr: https://www.fiverr.com/s/zWp6RQe
 
 ---
 
