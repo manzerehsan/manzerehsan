@@ -29,7 +29,7 @@
 ---
 
 ## My Platforms
-- 🌐 Product Reviews: https://forgequill.com
+- 🌐 Learning-focused platform: https://forgequill.com
 - 🛠 Tools: https://convertiohub.com
 - 📺 YouTube: RiseDaily, DailyFunLab, EchoesOfWars
 - 💼 Fiverr: https://www.fiverr.com/s/zWp6RQe
