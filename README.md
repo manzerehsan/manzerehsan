@@ -1,40 +1,28 @@
 # Manzer Ehsan
 
-**Data Analyst | BI Developer | IT Systems Professional**  
-15+ years experience in Data Analytics, Healthcare Data, Cloud, and Enterprise IT Systems.
+Data Operations | Business Intelligence | Survey & Information Systems
 
----
+25+ years of experience designing, managing, and optimizing large-scale data, research, and reporting systems.
 
-## What I Do
-- Data Analysis & Visualization (Tableau, Power BI, Looker Studio)
-- Dashboard Development & Reporting Automation
-- SQL, Python, ETL & Data Pipelines
-- Healthcare & Survey Data Analysis (HIPAA-aware)
+Areas of experience include:
 
----
+• Business Intelligence & Reporting
+• Data Operations & Process Automation
+• Survey & Research Systems
+• ETL & Data Pipelines
+• Data Governance & Information Management
+• Power BI, SQL Server, Python, Excel & Analytics Workflows
 
-## Portfolio Highlights
-- 📊 Tableau Healthcare Dashboard  
-  https://public.tableau.com/shared/BWYBR6JDX
+Selected experience includes:
 
-- 📈 Power BI Superstore Sales Dashboard  
-  https://github.com/manzerehsan/Power-BI-Superstore-Sales-Dashboard
+• Power BI production optimization (74M+ row reporting environment)
+• Census-based geo-demographic intelligence systems
+• Nationwide survey sampling frameworks
+• Digital survey operations using ODK / SurveyCTO
+• 30-year research archive and knowledge management systems
+• Election monitoring and reporting operations
 
-- 🧮 Advanced Excel Sales Dashboard  
-  https://github.com/manzerehsan/Excel_Proj_Sample
-
-- 🐍 Customer Satisfaction Analysis (Python)  
-  https://github.com/manzerehsan/Customer-Satisfaction-Analysis-using-Python-Pandas-
-
----
-
-## My Platforms
-- 🌐 Learning-focused platform: https://forgequill.com
-- 🛠 Tools: https://convertiohub.com
-- 📺 YouTube: RiseDaily, DailyFunLab, EchoesOfWars
-- 💼 Fiverr: https://www.fiverr.com/s/zWp6RQe
-
----
+This GitHub contains sample projects, utilities, dashboards, and technical experiments related to analytics, reporting, automation, and data operations.
 
 ## Contact
 - 📧 Email: manzerehsan@gmail.com
